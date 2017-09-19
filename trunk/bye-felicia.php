@@ -77,4 +77,12 @@
     }
 
     add_action( 'admin_head', 'bye_felicia_css' );
+
+    // Delete Hello Dolly.
+    function bye_felicia_activation_logic() {
+        if (is_plugin_active('hello.php')) {
+            deactivate_plugins('hello.php');
+        }
+    }
+    add_action( 'update_option_active_plugins', 'bye_felicia_activation_logic', 10, 2 );
 ?>
