@@ -15,9 +15,9 @@ This is just a simple plugin to replace Hello Dolly. For funsies. You're welcome
 
 ## Contributors
 
-http://kakemultimedia.com
-http://prodhmd.com
-http://lljb3.com
+http://kakemultimedia.com <br />
+http://prodhmd.com <br />
+http://lljb3.com <br />
  
 ## Installation
  
