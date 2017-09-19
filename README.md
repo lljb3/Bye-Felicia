@@ -1,16 +1,16 @@
 # Bye Felicia
-Contributors: lljb3, prodhmd, kakemultimedia__
-Tags: hello dolly, bye felicia__
-Requires at least: 3.0.1__
-Tested up to: 4.9__
-Requires PHP: 5.7__
-Stable tag: 4.8__
-License: GPLv2 or later__
+Contributors: lljb3, prodhmd, kakemultimedia <br />
+Tags: hello dolly, bye felicia <br />
+Requires at least: 3.0.1 <br />
+Tested up to: 4.9 <br />
+Requires PHP: 5.7 <br />
+Stable tag: 4.8 <br />
+License: GPLv2 or later <br />
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
 ## Description
 
-This is just a simple plugin to replace Hello Dolly. For funsies. You're welcome. Today was a good day. Now, bye Felicia.__
+This is just a simple plugin to replace Hello Dolly. For funsies. You're welcome. Today was a good day. Now, bye Felicia. <br />
 ~ LLJB3 of His Master's Dance
 
 ## Contributors
