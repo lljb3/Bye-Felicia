@@ -3,7 +3,7 @@ Contributors: lljb3, prodhmd, kakemultimedia
 Donate link: http://example.com/
 Tags: hello dolly, bye felicia
 Requires at least: 3.0.1
-Tested up to: 4.9
+Tested up to: 6.9
 Requires PHP: 5.7
 Stable tag: 4.8
 License: GPLv2 or later
