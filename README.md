@@ -1,6 +1,6 @@
-# Bye Felicia
+# Bye Felisha
 Contributors: lljb3, prodhmd, kakemultimedia <br />
-Tags: hello dolly, bye felicia <br />
+Tags: hello dolly, bye felicia, bye felisha <br />
 Requires at least: 3.0.1 <br />
 Tested up to: 8.0 <br />
 Requires PHP: 5.7 <br />

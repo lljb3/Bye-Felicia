@@ -1,22 +1,18 @@
-=== Bye Felisha ===
-Contributors: lljb3
-Donate link: https://lljb3.live/tip/
-Tags: hello dolly, bye felicia, bye felisha
+=== Bye Felicia ===
+Contributors: lljb3, prodhmd, kakemultimedia
+Donate link: http://example.com/
+Tags: hello dolly, bye felicia
 Requires at least: 3.0.1
-Tested up to: 6.9
+Tested up to: 6.4.2
 Requires PHP: 5.7
-Stable tag: 1.3
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
 == Description ==
 
-This is just a simple plugin to replace Hello Dolly. For funsies. You're welcome. Now, bye Felisha.
+This is just a simple plugin to replace Hello Dolly. For funsies. You're welcome. Today was a good day. Now, bye Felicia.
 ~ LLJB3 of His Master's Dance
-
-== Short Description ==
-
-You know Hello, Dolly? Yeah, we're switching that out. Now, what up on that 40, homie?
 
 == Contributors ==
 
@@ -33,13 +29,6 @@ http://lljb3.com
 Or just search on the repository in your WordPress Dashboard.
  
 == Changelog ==
-
-= 1.3 =
-* Updated Friday lines to censor cursing.
-
-= 1.2 =
-* Updated "Tested up to" version.
-* Removed "Today Was A Good Day" lyrics and added more Friday lines.
 
 = 1.1 =
 * Updated "Tested up to" version.

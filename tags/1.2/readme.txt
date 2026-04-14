@@ -5,7 +5,7 @@ Tags: hello dolly, bye felicia, bye felisha
 Requires at least: 3.0.1
 Tested up to: 6.9
 Requires PHP: 5.7
-Stable tag: 1.3
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
@@ -33,9 +33,6 @@ http://lljb3.com
 Or just search on the repository in your WordPress Dashboard.
  
 == Changelog ==
-
-= 1.3 =
-* Updated Friday lines to censor cursing.
 
 = 1.2 =
 * Updated "Tested up to" version.
