@@ -13,6 +13,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This is just a simple plugin to replace Hello Dolly. For funsies. You're welcome. Today was a good day. Now, bye Felicia. <br />
 ~ LLJB3 of His Master's Dance
 
+## Short Description
+
+You know Hello, Dolly? Yeah, we're switching that out. Now, what up on that 40, homie?
+
 ## Contributors
 
 http://kakemultimedia.com <br />
