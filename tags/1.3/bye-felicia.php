@@ -1,15 +1,15 @@
 <?php
     /**
-     * @package Bye Felicia
+     * @package Bye Felisha
      * @version 1.3
      */
     /*
-        Plugin Name: Bye Felicia
+        Plugin Name: Bye Felisha
         Plugin URI: http://wordpress.org/plugins/bye-felicia/
         Description: You know Hello, Dolly? Yeah, we're switching that out. When activated you will randomly see a line from <cite>Friday</cite> in the upper right of your admin screen on every page. We also put <cite>Today Was A Good Day</cite> by Ice Cube on here. You better know which line is from what. Now, what up on that 40, homie?
         Author: LLJB3
         Version: 1.3
-        Author URI: http://kakemultimedia.com
+        Author URI: http://lljb3.com
     */
 
     function bye_felicia_script() {
