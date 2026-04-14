@@ -1,46 +1,35 @@
 <?php
     /**
      * @package Bye Felicia
-     * @version 1.0
+     * @version 1.3
      */
     /*
         Plugin Name: Bye Felicia
         Plugin URI: http://wordpress.org/plugins/bye-felicia/
         Description: You know Hello, Dolly? Yeah, we're switching that out. When activated you will randomly see a line from <cite>Friday</cite> in the upper right of your admin screen on every page. We also put <cite>Today Was A Good Day</cite> by Ice Cube on here. You better know which line is from what. Now, what up on that 40, homie?
         Author: LLJB3
-        Version: 1.0
+        Version: 1.2
         Author URI: http://kakemultimedia.com
     */
 
     function bye_felicia_script() {
-        /** This is the entire script of the iconic scene: Bye, Felicia. Lyrics from Today Was */
-        $lyrics = "Let me borrow a joint.
-        You need to borrow a job with your broke ass. Always trying to smoke up somebody’s s#!+. Get the hell on Felicia.
-        I’m gonna remember that.
-        Remember it. Write it down. Take a picture. I don’t give a f---!
-        Craig?
-        Bye, Felicia.
-        Y’all stingy.
-        Just wakin' up in the morning, gotta thank God,
-        I don't know, but today seems kinda odd...
-        No barking from the dog, no smog.
-        And momma cooked a breakfast with no hog.
-        I got my grub on, but didn't pig out.
-        Finally got a call from a girl I wanna dig out!
-        Hooked it up for later as I hit the door,
-        Thinkin', “Will I live another 24?”
-        I gotta go, ‘cause I got me a drop-top.
-        And if I hit the switch, I can make the ass drop.
-        Had to stop at a red light,
-        Lookin' in my mirror and not a jacker in sight.
-        And everything is alright!
-        I got a beep from Kim, and she can f--- all night.
-        Called up the homies and I'm askin' y'all,
-        “Which park are y'all playin' basketball?”
-        Get me on the court and I'm trouble.
-        Last week, f----d around and got a triple double!
-        Freakin' n---as every way, like MJ,
-        I can't believe today was a good day.";
+17	        /** This is the entire script of the iconic scene: Bye, Felicia from Friday. */
+18	        $lyrics = "Let me borrow a joint.
+19	        You need to borrow a job with your broke ass. Always trying to smoke up somebody’s s#!+. Get the hell on Felicia.
+20	        I’m gonna remember that.
+21	        Remember it. Write it down. Take a picture. I don’t give a f---!
+22	        Craig?
+23	        Bye, Felicia.
+24	        Damn. Y'all stingy.
+25	        We ain't got no sugar.
+26	        No sugar? Damn. Y'all ain't never got two things that match. Either y'all got Kool-aid, no sugar. Peanut butter, no jelly. Ham, no burger. Daaamn.
+27	        I know you don't smoke weed, I know this; but I'm gonna get you high today, 'cause it's Friday; you ain't got no job... and you ain't got s#!+ to do.
+28	        Weed is from the earth. God put this here for me and you. Take advantage man, take advantage.
+29	        Puff puff, give. Puff puff, give. You f---in' up the rotation.
+30	        Older the berry, the sweeter the juice.
+31	        Man, it's the blacker the berry, the sweeter the juice.
+32	        Yeah, well she blacker than a m----f----r too.
+33	        Every time I come in the kitchen, you in the kitchen. In the goddamn refrigerator. Eatin' up all the food. All the chitlins... All the pigs' feet... All the collard greens... All the hog maws. I wanna eat them chitlins... I like pigs' feet.";
 
         // Here we split it into lines
         $lyrics = explode( "\n", $lyrics );

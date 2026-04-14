@@ -2,7 +2,7 @@
 Contributors: lljb3, prodhmd, kakemultimedia <br />
 Tags: hello dolly, bye felicia <br />
 Requires at least: 3.0.1 <br />
-Tested up to: 6.9 <br />
+Tested up to: 8.0 <br />
 Requires PHP: 5.7 <br />
 Stable tag: 4.8 <br />
 License: GPLv2 or later <br />
@@ -28,6 +28,16 @@ http://lljb3.com <br />
 Or just search on the repository in your WordPress Dashboard.
  
 ## Changelog
+
+### 1.3
+* Updated Friday lines to censor cursing.
+
+### 1.2
+* Updated "Tested up to" version.
+* Removed "Today Was A Good Day" lyrics and added more Friday lines.
+
+### 1.1
+* Updated "Tested up to" version.
  
 ### 1.0
 * Initial commit.

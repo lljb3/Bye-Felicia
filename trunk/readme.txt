@@ -29,6 +29,16 @@ http://lljb3.com
 Or just search on the repository in your WordPress Dashboard.
  
 == Changelog ==
+
+= 1.3 =
+* Updated Friday lines to censor cursing.
+
+= 1.2 =
+* Updated "Tested up to" version.
+* Removed "Today Was A Good Day" lyrics and added more Friday lines.
+
+= 1.1 =
+* Updated "Tested up to" version.
  
 = 1.0 =
 * Initial commit.
